@@ -1,3 +1,29 @@
+# CloddsBot
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源自主 AI 交易 Agent，覆盖 Polymarket、Kalshi、Binance 等 1000+ 市场。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="https://cloddsbot.com/logo.png" alt="Clodds Logo" width="280">
 </p>
